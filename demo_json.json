@@ -1,0 +1,67 @@
+{
+  "_id": "40001",
+
+  "name": "Rose Gold Ring",
+  "slug": "rose-gold-ring",
+  "description": "Elegant ring crafted in 18K gold.",
+
+  "category": "Rings",
+
+  "defaultSelections": {
+    "carat": "14",
+    "color": "Rose Gold"
+  },
+
+  "caratOptions": [
+    { "carat": "14K", "price": 30000 },
+    { "carat": "18K", "price": 35000 }
+  ],
+
+  "colorOptions": [
+    {
+      "color": "Rose Gold",
+      "images": [
+        "https://cdn/rose1.jpg",
+        "https://cdn/rose2.jpg"
+      ]
+    },
+    {
+      "color": "Yellow Gold",
+      "images": [
+        "https://cdn/yellow1.jpg",
+        "https://cdn/yellow2.jpg"
+      ]
+    },
+	{
+      "color": "Yellow Gold",
+      "images": [
+        "https://cdn/yellow1.jpg",
+        "https://cdn/yellow2.jpg"
+      ]
+    }
+  ],
+
+z
+
+  "showcaseAttributes": {
+    "stoneTypeOptions": [
+      "Diamond",
+      "Moissanite",
+      "Ruby",
+      "Emerald",
+      "Sapphire"
+    ],
+    "stoneShapeOptions": [
+      "Round",
+      "Princess",
+      "Oval",
+      "Pear",
+      "Emerald Cut"
+    ]
+  },
+
+ 
+
+  "createdAt": "date",
+  "updatedAt": "date"
+}

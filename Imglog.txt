@@ -1,0 +1,371 @@
+Processing Product_Id=40001 Slug=40001 URL=https://ivanajewels.com/products/10-cent-each-lab-grown-diamond-tennis-bracelet
+Found 14 images for Product_Id=40001
+Saved 40001_1.jpg
+Saved 40001_2.jpg
+Saved 40001_3.jpg
+Saved 40001_4.jpg
+Saved 40001_5.jpg
+Saved 40001_6.jpg
+Saved 40001_7.jpg
+Saved 40001_8.jpg
+Saved 40001_9.jpg
+Saved 40001_10.jpg
+Saved 40001_11.jpg
+Saved 40001_12.jpg
+Saved 40001_13.jpg
+Saved 40001_14.jpg
+
+Processing Product_Id=40002 Slug=40002 URL=https://ivanajewels.com/products/22-pointer-multishape-lab-grown-diamond-bracelet
+Found 9 images for Product_Id=40002
+Saved 40002_1.jpg
+Saved 40002_2.jpg
+Saved 40002_3.jpg
+Saved 40002_4.jpg
+Saved 40002_5.jpg
+Saved 40002_6.jpg
+Saved 40002_7.jpg
+Saved 40002_8.jpg
+Saved 40002_9.jpg
+PS C:\Users\gautam.vavadiya\D\Personal\Jewel\Data_Extraction\Jewel_Data_Extraction> python .\extraction_dynamic.py --excel ivan_product.xlsx
+
+Processing Product_Id=40001 Slug=40001 URL=https://ivanajewels.com/products/10-cent-each-lab-grown-diamond-tennis-bracelet
+Found 14 images for Product_Id=40001
+Saved 40001_1.jpg
+Saved 40001_2.jpg
+Saved 40001_3.jpg
+Saved 40001_4.jpg
+Saved 40001_5.jpg
+Saved 40001_6.jpg
+Saved 40001_7.jpg
+Saved 40001_8.jpg
+Saved 40001_9.jpg
+Saved 40001_10.jpg
+Saved 40001_11.jpg
+Saved 40001_12.jpg
+Saved 40001_13.jpg
+Saved 40001_14.jpg
+
+Processing Product_Id=40002 Slug=40002 URL=https://ivanajewels.com/products/22-pointer-multishape-lab-grown-diamond-bracelet
+Found 9 images for Product_Id=40002
+Saved 40002_1.jpg
+Saved 40002_2.jpg
+Saved 40002_3.jpg
+Saved 40002_4.jpg
+Saved 40002_5.jpg
+Saved 40002_6.jpg
+Saved 40002_7.jpg
+Saved 40002_8.jpg
+Saved 40002_9.jpg
+
+Processing Product_Id=40003 Slug=40003 URL=https://ivanajewels.com/products/classic-lab-grown-diamond-chain-bracelet-online
+Found 16 images for Product_Id=40003
+Saved 40003_1.jpg
+Saved 40003_2.jpg
+Saved 40003_3.jpg
+Saved 40003_4.jpg
+Saved 40003_5.jpg
+Saved 40003_6.jpg
+Saved 40003_7.jpg
+Saved 40003_8.jpg
+Saved 40003_9.jpg
+Saved 40003_10.jpg
+Saved 40003_11.jpg
+Saved 40003_12.jpg
+Saved 40003_13.jpg
+Saved 40003_14.jpg
+Saved 40003_15.jpg
+Saved 40003_16.jpg
+
+Processing Product_Id=40004 Slug=40004 URL=https://ivanajewels.com/products/elegant-floral-lab-grown-diamond-bracelet
+Found 9 images for Product_Id=40004
+Saved 40004_1.jpg
+Saved 40004_2.jpg
+Saved 40004_3.jpg
+Saved 40004_4.jpg
+Saved 40004_5.jpg
+Saved 40004_6.jpg
+Saved 40004_7.jpg
+Saved 40004_8.jpg
+Saved 40004_9.jpg
+
+Processing Product_Id=40005 Slug=40005 URL=https://ivanajewels.com/products/modern-lab-grown-diamond-tennis-bracelet-online
+Found 15 images for Product_Id=40005
+Saved 40005_1.jpg
+Saved 40005_2.jpg
+Saved 40005_3.jpg
+Saved 40005_4.jpg
+Saved 40005_5.jpg
+Saved 40005_6.jpg
+Saved 40005_7.jpg
+Saved 40005_8.jpg
+Saved 40005_9.jpg
+Saved 40005_10.jpg
+Saved 40005_11.jpg
+Saved 40005_12.jpg
+Saved 40005_13.jpg
+Saved 40005_14.jpg
+Saved 40005_15.jpg
+
+Processing Product_Id=40006 Slug=40006 URL=https://ivanajewels.com/products/multi-cut-lab-grown-diamond-bracelet
+Found 9 images for Product_Id=40006
+Saved 40006_1.jpg
+Saved 40006_2.jpg
+Saved 40006_3.jpg
+Saved 40006_4.jpg
+Saved 40006_5.jpg
+Saved 40006_6.jpg
+Saved 40006_7.jpg
+Saved 40006_8.jpg
+Saved 40006_9.jpg
+
+Processing Product_Id=20001 Slug=20001 URL=https://ivanajewels.com/products/0-75-carat-lab-grown-diamond-studs
+Found 10 images for Product_Id=20001
+Saved 20001_1.jpg
+Saved 20001_2.jpg
+Saved 20001_3.jpg
+Saved 20001_4.jpg
+Saved 20001_5.jpg
+Saved 20001_6.jpg
+Saved 20001_7.jpg
+Saved 20001_8.jpg
+Saved 20001_9.jpg
+Saved 20001_10.jpg
+
+Processing Product_Id=20002 Slug=20002 URL=https://ivanajewels.com/products/2-carat-lab-grown-diamond-cluster-cascade-earrings
+Found 10 images for Product_Id=20002
+Saved 20002_1.jpg
+Saved 20002_2.jpg
+Saved 20002_3.jpg
+Saved 20002_4.jpg
+Saved 20002_5.jpg
+Saved 20002_6.jpg
+Saved 20002_7.jpg
+Saved 20002_8.jpg
+Saved 20002_9.jpg
+Saved 20002_10.jpg
+
+Processing Product_Id=20003 Slug=20003 URL=https://ivanajewels.com/products/cushion-lab-grown-diamond-cluster-earrings
+Found 10 images for Product_Id=20003
+Saved 20003_1.jpg
+Saved 20003_2.jpg
+Saved 20003_3.jpg
+Saved 20003_4.jpg
+Saved 20003_5.jpg
+Saved 20003_6.jpg
+Saved 20003_7.jpg
+Saved 20003_8.jpg
+Saved 20003_9.jpg
+Saved 20003_10.jpg
+
+Processing Product_Id=20004 Slug=20004 URL=https://ivanajewels.com/products/double-row-diamond-hoop-earrings
+Found 10 images for Product_Id=20004
+Saved 20004_1.jpg
+Saved 20004_2.jpg
+Saved 20004_3.jpg
+Saved 20004_4.jpg
+Saved 20004_5.jpg
+Saved 20004_6.jpg
+Saved 20004_7.jpg
+Saved 20004_8.jpg
+Saved 20004_9.jpg
+Saved 20004_10.jpg
+
+Processing Product_Id=20005 Slug=20005 URL=https://ivanajewels.com/products/move-addiction-lab-grown-diamond-dangler-earrings
+Found 11 images for Product_Id=20005
+Saved 20005_1.jpg
+Saved 20005_2.jpg
+Saved 20005_3.jpg
+Saved 20005_4.jpg
+Saved 20005_5.jpg
+Saved 20005_6.jpg
+Saved 20005_7.jpg
+Saved 20005_8.jpg
+Saved 20005_9.jpg
+Saved 20005_10.jpg
+Saved 20005_11.jpg
+
+Processing Product_Id=20006 Slug=20006 URL=https://ivanajewels.com/products/sangria-lab-grown-diamond-studs
+Found 10 images for Product_Id=20006
+Saved 20006_1.jpg
+Saved 20006_2.jpg
+Saved 20006_3.jpg
+Saved 20006_4.jpg
+Saved 20006_5.jpg
+Saved 20006_6.jpg
+Saved 20006_7.jpg
+Saved 20006_8.jpg
+Saved 20006_9.jpg
+Saved 20006_10.jpg
+
+Processing Product_Id=10001 Slug=10001 URL=https://ivanajewels.com/products/circle-chain-lab-grown-diamond-necklace-online
+Found 12 images for Product_Id=10001
+Saved 10001_1.jpg
+Saved 10001_2.jpg
+Saved 10001_3.jpg
+Saved 10001_4.jpg
+Saved 10001_5.jpg
+Saved 10001_6.jpg
+Saved 10001_7.jpg
+Saved 10001_8.jpg
+Saved 10001_9.jpg
+Saved 10001_10.jpg
+Saved 10001_11.jpg
+Saved 10001_12.jpg
+
+Processing Product_Id=10002 Slug=10002 URL=https://ivanajewels.com/products/circlet-lab-grown-diamond-pendant-online
+Found 10 images for Product_Id=10002
+Saved 10002_1.jpg
+Saved 10002_2.jpg
+Saved 10002_3.jpg
+Saved 10002_4.jpg
+Saved 10002_5.jpg
+Saved 10002_6.jpg
+Saved 10002_7.jpg
+Saved 10002_8.jpg
+Saved 10002_9.jpg
+Saved 10002_10.jpg
+
+Processing Product_Id=10003 Slug=10003 URL=https://ivanajewels.com/products/lab-grown-diamond-cluster-necklace
+Found 12 images for Product_Id=10003
+Saved 10003_1.jpg
+Saved 10003_2.jpg
+Saved 10003_3.jpg
+Saved 10003_4.jpg
+Saved 10003_5.jpg
+Saved 10003_6.jpg
+Saved 10003_7.jpg
+Saved 10003_8.jpg
+Saved 10003_9.jpg
+Saved 10003_10.jpg
+Saved 10003_11.jpg
+Saved 10003_12.jpg
+
+Processing Product_Id=10004 Slug=10004 URL=https://ivanajewels.com/products/lab-grown-round-diamond-minimalist-necklace
+Found 13 images for Product_Id=10004
+Saved 10004_1.jpg
+Saved 10004_2.jpg
+Saved 10004_3.jpg
+Saved 10004_4.jpg
+Saved 10004_5.jpg
+Saved 10004_6.jpg
+Saved 10004_7.jpg
+Saved 10004_8.jpg
+Saved 10004_9.jpg
+Saved 10004_10.jpg
+Saved 10004_11.jpg
+Saved 10004_12.jpg
+Saved 10004_13.jpg
+
+Processing Product_Id=10005 Slug=10005 URL=https://ivanajewels.com/products/minimalist-lab-grown-diamond-pendant-necklace
+Found 9 images for Product_Id=10005
+Saved 10005_1.jpg
+Saved 10005_2.jpg
+Saved 10005_3.jpg
+Saved 10005_4.jpg
+Saved 10005_5.jpg
+Saved 10005_6.jpg
+Saved 10005_7.jpg
+Saved 10005_8.jpg
+Saved 10005_9.jpg
+
+Processing Product_Id=10006 Slug=10006 URL=https://ivanajewels.com/products/multi-shape-lab-grown-diamond-minimalist-necklace
+Found 13 images for Product_Id=10006
+Saved 10006_1.jpg
+Saved 10006_2.jpg
+Saved 10006_3.jpg
+Saved 10006_4.jpg
+Saved 10006_5.jpg
+Saved 10006_6.jpg
+Saved 10006_7.jpg
+Saved 10006_8.jpg
+Saved 10006_9.jpg
+Saved 10006_10.jpg
+Saved 10006_11.jpg
+Saved 10006_12.jpg
+Saved 10006_13.jpg
+
+Processing Product_Id=10007 Slug=10007 URL=https://ivanajewels.com/products/round-cut-lab-grown-diamond-necklace
+Found 9 images for Product_Id=10007
+Saved 10007_1.jpg
+Saved 10007_2.jpg
+Saved 10007_3.jpg
+Saved 10007_4.jpg
+Saved 10007_5.jpg
+Saved 10007_6.jpg
+Saved 10007_7.jpg
+Saved 10007_8.jpg
+Saved 10007_9.jpg
+
+Processing Product_Id=10008 Slug=10008 URL=https://ivanajewels.com/products/sparkling-lab-grown-diamond-tennis-necklace
+Found 7 images for Product_Id=10008
+Saved 10008_1.jpg
+Saved 10008_2.jpg
+Saved 10008_3.jpg
+Saved 10008_4.jpg
+Saved 10008_5.jpg
+Saved 10008_6.jpg
+Saved 10008_7.jpg
+
+Processing Product_Id=30001 Slug=30001 URL=https://ivanajewels.com/products/1-carat-lab-grown-marquise-diamond-ring-online
+Found 13 images for Product_Id=30001
+Saved 30001_1.jpg
+Saved 30001_2.jpg
+Saved 30001_3.jpg
+Saved 30001_4.jpg
+Saved 30001_5.jpg
+Saved 30001_6.jpg
+Saved 30001_7.jpg
+Saved 30001_8.jpg
+Saved 30001_9.jpg
+Saved 30001_10.jpg
+Saved 30001_11.jpg
+Saved 30001_12.jpg
+Saved 30001_13.jpg
+
+Processing Product_Id=30002 Slug=30002 URL=https://ivanajewels.com/products/baguette-diamond-cluster-ring
+Found 13 images for Product_Id=30002
+Saved 30002_1.jpg
+Saved 30002_2.jpg
+Saved 30002_3.jpg
+Saved 30002_4.jpg
+Saved 30002_5.jpg
+Saved 30002_6.jpg
+Saved 30002_7.jpg
+Saved 30002_8.jpg
+Saved 30002_9.jpg
+Saved 30002_10.jpg
+Saved 30002_11.jpg
+Saved 30002_12.jpg
+Saved 30002_13.jpg
+
+Processing Product_Id=30003 Slug=30003 URL=https://ivanajewels.com/products/radiant-solitaire-diamond-engagement-ring
+Found 13 images for Product_Id=30003
+Saved 30003_1.jpg
+Saved 30003_2.jpg
+Saved 30003_3.jpg
+Saved 30003_4.jpg
+Saved 30003_5.jpg
+Saved 30003_6.jpg
+Saved 30003_7.jpg
+Saved 30003_8.jpg
+Saved 30003_9.jpg
+Saved 30003_10.jpg
+Saved 30003_11.jpg
+Saved 30003_12.jpg
+Saved 30003_13.jpg
+
+Processing Product_Id=30004 Slug=30004 URL=https://ivanajewels.com/products/trillion-cut-diamond-engagement-ring
+Found 13 images for Product_Id=30004
+Saved 30004_1.jpg
+Saved 30004_2.jpg
+Saved 30004_3.jpg
+Saved 30004_4.jpg
+Saved 30004_5.jpg
+Saved 30004_6.jpg
+Saved 30004_7.jpg
+Saved 30004_8.jpg
+Saved 30004_9.jpg
+Saved 30004_10.jpg
+Saved 30004_11.jpg
+Saved 30004_12.jpg
+Saved 30004_13.jpg
