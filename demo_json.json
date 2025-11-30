@@ -1,11 +1,11 @@
 {
-  "_id": "40001",
+  "_id": "40001",   -- In Given Excel: Product_id column
+  "name": "10 Cent Each Lab Grown Diamond Tennis Bracelet", --In Given Excel: Product Name
+  "slug": "10-cent-each-lab-grown-diamond-tennis-bracelet", --In Given Excel: slug
+  "description": "This 10 Cent Each Lab Grown Diamond Tennis Bracelet features brilliant, ethically created diamonds in a sleek, timeless design. A perfect blend of elegance and everyday luxury.", --In Html, Id: ProductAccordion-collapsible_tab_6n6Kk3-template--17227634311230__main-product in That id P Tag contain description
 
-  "name": "Rose Gold Ring",
-  "slug": "rose-gold-ring",
-  "description": "Elegant ring crafted in 18K gold.",
-
-  "category": "Rings",
+  "category": "Bracelet", --In given Excel : Product Type
+  "tag": "
 
   "defaultSelections": {
     "carat": "14",
@@ -59,9 +59,6 @@ z
       "Emerald Cut"
     ]
   },
-
- 
-
   "createdAt": "date",
   "updatedAt": "date"
 }
